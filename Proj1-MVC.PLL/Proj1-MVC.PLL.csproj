@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Proj1_MVC.PLL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Proj1-MVC.DAL\Proj1-MVC.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
